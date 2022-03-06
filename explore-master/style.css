@@ -59,14 +59,20 @@ h3 {
   padding: 2rem 20rem;
   font-size: 1.1rem;
 }
+
+.text-black{
+  padding: 2rem 20rem;
+  font-size: 1.1rem;
+  color: black;
+  margin-left: 231px;
+}
 .mytho {
   height: 40vh;
   padding-left: 5vh;
   padding-right: 5vh;
   border-radius: 30%;
 }
-.mytho im {
-}
+
 .wrapper {
   padding-bottom: 90px;
 }
@@ -161,3 +167,18 @@ h3 {
   text-align: center;
   font-weight: bolder;
 }
+
+#sec2{
+  background-color: black;
+  /* background: url(section2.png);
+  background-size: 100% 100%; */
+}
+
+.history > h2{
+  font-size: 2rem;
+}
+.history{
+  font-size: 1rem;
+  text-align: justify;
+}
+
