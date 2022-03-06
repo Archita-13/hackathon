@@ -13,6 +13,11 @@ nav {
   justify-content: space-between;
 }
 
+
+.button{
+  font-weight: bolder;
+  color:black;
+}
 .container {
   height: 100vh;
 }
